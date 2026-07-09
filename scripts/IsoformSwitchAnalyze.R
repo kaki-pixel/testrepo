@@ -15,6 +15,8 @@ library(IsoformSwitchAnalyzeR)
 library(rtracklayer)
 library(ggplot2)
 
+#vjbnsjnvweaa
+
 # Load DTU and Data results, significant transcripts and genes
 drimDTU_mito <- read.table("DRIMSeq_Results/HLV_L_MITO_DRIM_results.txt", header = TRUE, sep = "\t")
 drimData_mito <- read.table("DRIMSeq_Results/HLV_L_MITO_DRIM_means_and_proportions.txt", header = TRUE, sep = "\t")
